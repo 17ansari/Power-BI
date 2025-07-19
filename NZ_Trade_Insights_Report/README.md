@@ -78,5 +78,3 @@ This dashboard is suitable for:
 This project showcases an end-to-end Power BI solution built from raw data to advanced insights. It combines business logic, data storytelling, and technical skills into a single interactive report — ready to be embedded, published, or used in executive reviews.
 
 ---
-
-> 🧾 **Note:** This project is part of my professional portfolio and is included on my resume.
